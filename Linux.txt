@@ -1,0 +1,15 @@
+Linux is kernel layer present on top of hardware
+
+Linux families debeian and redhat
+
+debeian family:-
+=============
+Ubuntu
+fedora and so on
+
+redHat
+=====
+Centos
+suse linux
+AWS Linux
+RHEL
